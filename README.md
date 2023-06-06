@@ -1,2 +1,2 @@
 # Covid19Project
-Dat Exploration and Visualization portfolio project
+Data Exploration and Visualization portfolio project
