@@ -1,5 +1,6 @@
 # Covid-19 Portfolio Project
-Data Exploration and Visualization 1st project
+
+My 1st Data Exploration and Visualization Project
 
 Technologies Used: MS Excel, MS SQL Server
 
