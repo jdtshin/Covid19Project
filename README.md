@@ -1,4 +1,4 @@
 # Covid-19 Portfolio Project
-Data Exploration and Visualization portfolio project
+Data Exploration portfolio project
 
-Technologies Used: MS Excel, MS SQL Server, Tableau
+Technologies Used: MS Excel, MS SQL Server
